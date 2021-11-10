@@ -38,6 +38,7 @@ Sincerely,</p>
 <code><a href="https://www.mysql.com"><img alt="Python" title="Mysql" src="https://github.com/todaycodemaster/logos/blob/master/mysql.png" height="42"></a></code>
 <code><a href="https://www.postgresql.org"><img alt="PostgreSQL" title="PostgreSQL" src="https://github.com/todaycodemaster/logos/blob/master/postgresql.png" height="42"></a></code>
 <code><a href="https://codeigniter.com/"><img alt="Codeigniter" title="Codeigniter" src="https://github.com/todaycodemaster/logos/blob/master/ci.png" height="42"></a></code>
+<code><a href="https://flutter.dev"><img alt="Flutter" title="Flutter" src="https://github.com/todaycodemaster/logos/blob/master/flutter.png" height="42"></a></code>
 
 ### Languages/Frameworks I'm learning:
 
