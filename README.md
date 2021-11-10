@@ -27,7 +27,7 @@ Sincerely,</p>
 ## My Skills
 
 ### Languages/Frameworks I'm good at:
-
+<code><a href="https://solana.com/"><img alt="Solana" title="Solana" src="https://github.com/todaycodemaster/logos/blob/master/solana.png" height="42"></a></code>
 <code><a href="https://laravel.com"><img alt="Laravel" title="Laravel" src="https://topskill.dev/logos/laravel.png" height="42"></a></code>
 <code><a href="https://nodejs.org"><img alt="Node.js" title="Node.js" src="https://topskill.dev/logos/nodejs.png" height="42"></a></code>
 <code><a href="https://reactjs.org"><img alt="React.js" title="React.js" src="https://topskill.dev/logos/react.png" height="42"></a></code>
