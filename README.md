@@ -36,7 +36,7 @@ Sincerely,</p>
 <code><a href="https://angular.io/"><img alt="Angular" title="Agnular" src="https://github.com/todaycodemaster/logos/blob/master/angular.png" height="42"></a></code>
 <code><a href="https://python.org"><img alt="Python" title="Python" src="https://topskill.dev/logos/python.png" height="42"></a></code>
 <code><a href="https://www.mysql.com"><img alt="Python" title="Mysql" src="https://github.com/todaycodemaster/logos/blob/master/mysql.png" height="42"></a></code>
-<code><a href="https://www.postgresql.org"><img alt="Python" title="PostgreSQL" src="https://github.com/todaycodemaster/logos/blob/master/postgresql.png" height="42"></a></code>
+<code><a href="https://www.postgresql.org"><img alt="PostgreSQL" title="PostgreSQL" src="https://github.com/todaycodemaster/logos/blob/master/postgresql.png" height="42"></a></code>
 
 ### Languages/Frameworks I'm learning:
 
