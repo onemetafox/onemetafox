@@ -36,7 +36,7 @@ Sincerely,</p>
 <code><a href="https://vuejs.org"><img alt="Vue.js" title="Vue.js" src="https://topskill.dev/logos/vue.png" height="42"></a></code>
 <code><a href="https://java.com"><img alt="Java" title="Java" src="https://topskill.dev/logos/java.png" height="42"></a></code>
 <code><a href="https://angular.io/"><img alt="Angular" title="Python" src="https://github.com/todaycodemaster/logos/blob/master/angular.png" height="42"></a></code>
-<code><a href="https://python.org"><img alt="Python" title="Python" src="https://github.com/todaycodemaster/logos/blob/master/django.png" height="42"></a></code>
+<code><a href="https://python.org"><img alt="Python" title="Python" src="https://topskill.dev/logos/python.png" height="42"></a></code>
 <code><a href="https://www.mysql.com"><img alt="Python" title="Python" src="https://github.com/todaycodemaster/logos/blob/master/mysql.png" height="42"></a></code>
 <code><a href="https://www.postgresql.org"><img alt="Python" title="Python" src="https://github.com/todaycodemaster/logos/blob/master/postgresql.png" height="42"></a></code>
 
