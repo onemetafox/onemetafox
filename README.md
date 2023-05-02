@@ -38,7 +38,7 @@ Sincerely,</p>
 <code><a href="https://nodejs.org"><img alt="Node.js" title="Node.js" src="https://github.com/todaycodemaster/logos/blob/master/node.jpg" height="42"></a></code>
 <code><a href="https://reactjs.org"><img alt="React.js" title="React.js" src="https://github.com/todaycodemaster/logos/blob/master/react.png" height="42"></a></code>
 <code><a href="https://vuejs.org"><img alt="Vue.js" title="Vue.js" src="https://github.com/todaycodemaster/logos/blob/master/vue.png" height="42"></a></code>
-<code><a href="https://java.com"><img alt="Java" title="Java" src="https://topskill.dev/logos/java.png" height="42"></a></code>
+<code><a href="https://java.com"><img alt="Java" title="Java" src="https://github.com/todaycodemaster/logos/blob/master/java.png" height="42"></a></code>
 <code><a href="https://angular.io/"><img alt="Angular" title="Agnular" src="https://github.com/todaycodemaster/logos/blob/master/angular.png" height="42"></a></code>
 <code><a href="https://python.org"><img alt="Python" title="Python" src="https://github.com/todaycodemaster/logos/blob/master/python.png" height="42"></a></code>
 <code><a href="https://www.mysql.com"><img alt="Python" title="Mysql" src="https://github.com/todaycodemaster/logos/blob/master/mysql.png" height="42"></a></code>
@@ -52,6 +52,6 @@ Sincerely,</p>
 
 ### Environments I work with:
 
-<code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="https://topskill.dev/logos/git.png" height="42"></a></code>
-<code><a href="https://aws.amazon.com/"><img alt="AWS" title="AWS" src="https://topskill.dev/logos/aws.png" height="42"></a></code>
-<code><a href="https://azure.microsoft.com/en-us/services/devops/"><img alt="GitHub" title="Azure DevOps" src="https://topskill.dev/logos/azure.png" height="42"></a></code>
+<code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="https://github.com/todaycodemaster/logos/blob/master/github.png" height="42"></a></code>
+<code><a href="https://aws.amazon.com/"><img alt="AWS" title="AWS" src="https://github.com/todaycodemaster/logos/blob/master/aws.png" height="42"></a></code>
+<code><a href="https://azure.microsoft.com/en-us/services/devops/"><img alt="GitHub" title="Azure DevOps" src="https://github.com/todaycodemaster/logos/blob/master/azure.png" height="42"></a></code>
