@@ -37,7 +37,7 @@ Sincerely,</p>
 <code><a href="https://laravel.com"><img alt="Laravel" title="Laravel" src="https://github.com/todaycodemaster/logos/blob/master/Laravel.png" height="42"></a></code>
 <code><a href="https://nodejs.org"><img alt="Node.js" title="Node.js" src="https://github.com/todaycodemaster/logos/blob/master/node.png" height="42"></a></code>
 <code><a href="https://reactjs.org"><img alt="React.js" title="React.js" src="https://github.com/todaycodemaster/logos/blob/master/react.png" height="42"></a></code>
-<code><a href="https://rubyonrails.org"><img alt="Ruby On Rails" title="React.js" src="https://github.com/todaycodemaster/logos/blob/master/ruby.jpg" height="42"></a></code>
+<code><a href="https://rubyonrails.org"><img alt="Ruby On Rails" title="React.js" src="https://github.com/todaycodemaster/logos/blob/master/ruby.png" height="42"></a></code>
 <code><a href="https://vuejs.org"><img alt="Vue.js" title="Vue.js" src="https://github.com/todaycodemaster/logos/blob/master/vue.png" height="42"></a></code>
 <code><a href="https://java.com"><img alt="Java" title="Java" src="https://github.com/todaycodemaster/logos/blob/master/java.png" height="42"></a></code>
 <code><a href="https://angular.io/"><img alt="Angular" title="Agnular" src="https://github.com/todaycodemaster/logos/blob/master/angular.png" height="42"></a></code>
