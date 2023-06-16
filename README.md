@@ -35,7 +35,7 @@ Sincerely,</p>
 ### Languages/Frameworks I'm good at:
 <code><a href="https://solana.com/"><img alt="Solana" title="Solana" src="https://github.com/todaycodemaster/logos/blob/master/solana.png" height="42"></a></code>
 <code><a href="https://laravel.com"><img alt="Laravel" title="Laravel" src="https://github.com/todaycodemaster/logos/blob/master/Laravel.png" height="42"></a></code>
-<code><a href="https://nodejs.org"><img alt="Node.js" title="Node.js" src="https://github.com/todaycodemaster/logos/blob/master/node.jpg" height="42"></a></code>
+<code><a href="https://nodejs.org"><img alt="Node.js" title="Node.js" src="https://github.com/todaycodemaster/logos/blob/master/node.png" height="42"></a></code>
 <code><a href="https://reactjs.org"><img alt="React.js" title="React.js" src="https://github.com/todaycodemaster/logos/blob/master/react.png" height="42"></a></code>
 <code><a href="https://rubyonrails.org"><img alt="Ruby On Rails" title="React.js" src="https://github.com/todaycodemaster/logos/blob/master/ruby.jpg" height="42"></a></code>
 <code><a href="https://vuejs.org"><img alt="Vue.js" title="Vue.js" src="https://github.com/todaycodemaster/logos/blob/master/vue.png" height="42"></a></code>
