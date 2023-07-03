@@ -15,20 +15,6 @@
 ![](https://img.shields.io/badge/Mysql-Mysql-informational?style=flat&logo=Mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Solana-Solana-informational?style=flat&logo=solana&logoColor=white&color=2bbc8a)
 
-<p align="justify">I believe I would be an excellent fit for this position since I am a software engineer with a wide variety of experience in the field.</p>
-
-<p align="justify">I tend to view myself as a generalist since I try not to focus on any given technology. 
-My skills range from PHP(CI, Laravel), Node, React, Vue, Angular, Ruby On Rails, Java, Swift, React-Native, Flutter, Django to Mysql, Postgres, MongoDB, 
-and I have 8 years of experience. </p>
-
-<p align="justify">As a software engineer, I'm familiar with GitHub, GitLab, etc for version control and Jira and Trello for tasks management.</p>
-
-<p align="justify">Also, I'm familiar with several kinds of testing systems.
-I have been exposed to a wide variety of technologies in my career and consider myself to be very adaptable.</p>
-
-<p align="justify">Because of my breadth of experience, I believe that I would make an excellent addition to your team.
-
-Sincerely,</p>
 
 ## My Skills
 
