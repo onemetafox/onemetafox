@@ -1,7 +1,9 @@
 
 
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=topskilldev&style=flat-square"></h2>
-
+I am a highly skilled Software Engineer with over 10 years of experience in developing and delivering complex software solutions.
+My expertise lies in designing and implementing scalable and reliable software systems, using cutting-edge technologies and best practices.
+Throughout my career, I have worked on a wide range of projects, from small-scale applications to large enterprise systems, across various industries such as E-learning, Booking, Finance, Healthcare, and E-Commerce.
 ![](https://img.shields.io/badge/Laravel-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/NodeJS-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ReactJs-ReactJs-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
