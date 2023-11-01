@@ -14,8 +14,6 @@
 ![](https://img.shields.io/badge/Flutter-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Mysql-Mysql-informational?style=flat&logo=Mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Solana-Solana-informational?style=flat&logo=solana&logoColor=white&color=2bbc8a)<br></br>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=onemetafox&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true"/>
-![](https://github-readme-stats.vercel.app/api?username=onemetafox&theme=highcontrast&include_all_commits=true)
 
 ## My Skills
 
