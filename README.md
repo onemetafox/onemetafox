@@ -1,25 +1,68 @@
 
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><h3 id="user-content-hi-there-" dir="auto"><a class="heading-link" href="#hi-there-">Hi there 👋<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>
+<ul dir="auto">
+<li>🔭 I'm a Project Manager at <a href="https://gosmartacademy.com" rel="nofollow">Quality Circle Internal LLC</a> with over 4 years of <strong>Site Reliability Engineering (SRE)</strong> and <strong>Full stack Developer</strong> experience at various companies like <a href="https://dokdo.sh/" rel="nofollow">DOKDO UAB</a> and <a href="https://www.tymt.com/" rel="nofollow">TYMT</a> etc.</li>
+<li>🌱 I've made several <a href="https://github.com/onemetafox">contributions to open source</a>, to tools such as <a href="https://github.com/onemetafox/dokdo_bot">Telegram Bot</a>, <a href="https://github.com/prometheus/client_golang/pulls?q=is%3Apr+author%3Aroaldnefs">Prometheus</a>, <a href="https://github.com/atlas0fd00m/rfcat/pulls?q=is%3Apr+author%3Aroaldnefs">rfcat</a> and <a href="https://github.com/roaldnefs">many more</a>.</li>
+<li>⚡ Besides contributing to open source I enjoy tinkering with electronics, and software development in general.</li>
+<li>💬 You can get in touch with me by email at <a href="mailto:onemetafox@gmail.com">onemetafox@gmail.com</a>, Medium (<a href="https://medium.com/@onemetafox" rel="nofollow">@onemetafox</a>), and <a href="https://www.linkedin.com/in/onmetafox/" rel="nofollow">LinkedIn</a>.</li>
+</ul>
+  
+<h3 id="user-content-work-experience" dir="auto"><a class="heading-link" href="#work-experience">Work Experience<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+<path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>
+<p dir="auto">In the overview below you will find my most recent work experience:</p>
 
-<h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=topskilldev&style=flat-square"></h2>
-<span>I am a highly skilled Software Engineer with over 10 years of experience in developing and delivering complex software solutions.
-My expertise lies in designing and implementing scalable and reliable software systems, using cutting-edge technologies and best practices.
-Throughout my career, I have worked on a wide range of projects, from small-scale applications to large enterprise systems, across various industries such as E-learning, Booking, Finance, Healthcare, and E-Commerce.
-</span>
+<p dir="auto"><a href="https://dokdo.sh/" rel="nofollow"><img align="left" height="94px" width="94px" alt="DOKDO UAB" src="https://github.com/onemetafox/logos/blob/master/dokdo.jpg?raw=true" style="max-width: 100%;"></a></p>
+<p dir="auto"><strong>Full-Stack Developer</strong> <br>
+<a href="https://dokdo.sh/" rel="nofollow"><strong>DOKDO</strong></a><a href="https://tymt.com/" rel="nofollow"><strong>TYMT</strong></a> • Contract <br>
+Languages &amp; Technologies: <code>React</code>, <code>ExpressJS</code>, <code>MongoDB</code>, <code>Jira</code>, <code>Git</code> <br>
 <br>
-<br>
+</p>
 
-![](https://img.shields.io/badge/Laravel-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/NodeJS-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ReactJs-ReactJs-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/VueJS-VueJS-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Java-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Python-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Ruby%20on%20Rails-Ruby%20on%20Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Codeigniter-Codeignither-informational?style=flat&logo=codeigniter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Angular-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Flutter-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Mysql-Mysql-informational?style=flat&logo=Mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Solana-Solana-informational?style=flat&logo=solana&logoColor=white&color=2bbc8a)<br></br>
+<p dir="auto"><a href="https://qualitycircleint.com/" rel="nofollow"><img align="left" height="94px" width="94px" alt="Quality Circle LMS" src="https://github.com/onemetafox/logos/blob/master/quality.jpg?raw=true" style="max-width: 100%;"></a></p>
+<p dir="auto"><strong>Project Manager || Full-Stack Developer</strong> <br>
+<a href="https://qualitycircleint.com/" rel="nofollow"><strong>Quality Circle LLC</strong></a>, 
+<a href="http://isoimplementationsoftware.com/" rel="nofollow"><strong>ISO Implementation</strong></a>, 
+<a href="https://gosmartacademy.com/" rel="nofollow"><strong>LMS</strong></a>• Full-time <br>
+Languages &amp; Technologies: <code>PHP</code>, <code>CodeIgniter</code>,<code>Laravel</code>, <code>MySQL</code>, <code>JavaScript</code>, <code>Jira</code>, <code>Git</code> <br>
+<br>
+</p>
+
+<p dir="auto"><a href="https://supplieson.com/" rel="nofollow"><img align="left" height="94px" width="94px" alt="SuppliesON" src="https://github.com/onemetafox/logos/blob/master/supplieson.jpg?raw=true" style="max-width: 100%;"></a></p>
+<p dir="auto"><strong>Lead Software Engineer</strong> <br>
+<a href="https://supplieson.com/" rel="nofollow"><strong>SuppliesOn</strong></a> • Contract <br>
+Languages &amp; Technologies: <code>Angular</code>, <code>Django</code>, <code>MongoDB</code>, <code>ExpressJS</code>, <code>JavaScript</code>, <code>Jira</code>, <code>Git</code> <br>
+<br>
+</p>
+
+<p dir="auto"><a href="http://www.welthungerhilfe.de/" rel="nofollow"><img align="left" height="94px" width="94px" alt="Welthungerhilfe" src="https://github.com/onemetafox/logos/blob/master/welth.jpg?raw=true" style="max-width: 100%;"></a></p>
+<p dir="auto"><strong>Full-Stack Developer</strong> <br>
+<a href="https://www.welthungerhilfe.de/" rel="nofollow"><strong>Welthungerhilfe</strong></a>, <a href="https://www.childgrowthmonitor.org/" rel="nofollow"><strong>CHILD GROWTH MONITOR</strong></a> • Contract <br>
+Languages &amp; Technologies: <code>Java Kotlin</code>, <code>Spring</code>, <code>MySQL</code>, <code>JSP</code>, <code>Git</code>,<code>JavaScript</code>, <code>Jira</code> <br>
+<br>
+</p>
+
+<p dir="auto"><a href="https://www.suisse-view.ch/" rel="nofollow"><img align="left" height="94px" width="94px" alt="Lev Stupka Travel" src="https://github.com/onemetafox/logos/blob/master/lev.jpg?raw=true" style="max-width: 100%;"></a></p>
+<p dir="auto"><strong>Junior Software Engineer</strong> <br>
+<a href="https://www.suisse-view.ch/" rel="nofollow"><strong>Suisse View</strong></a>, <a href="https://trk.iradweb.ch/" rel="nofollow"><strong>Wedding Room Reservation</strong></a> • Contract <br>
+Languages &amp; Technologies: <code>CodeIgniter</code>, <code>PHP</code>, <code>Laravel</code>, <code>Jquery</code>, <code>JavaScript</code>, <code>Jira</code>, <code>Git</code>, <code>MySQL</code> <br>
+<br>
+</p>
+
+<p dir="auto">Please find me on <a href="https://www.linkedin.com/in/onmetafox/" rel="nofollow">LinkedIn</a> for a more detailed description of my full work experience, education and certification.</p>
+
+
+<h3 id="user-content-credits" dir="auto"><a class="heading-link" href="#credits">Credits<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>
+<p dir="auto">I would like to thank everyone who has supported me in my open-source contributions and projects. I should mention at least a few of them:</p>
+<ul dir="auto">
+<li><a href="https://warpnet.nl" rel="nofollow">Warpnet B.V.</a>, which is also my employer, for giving me the freedom to contibute to whatever open-source project I do see fit and spend a significant portion of my work time doing this.</li>
+<li>Every open-source contributor and maintainer who has ever reviewed any of my contributions, or just replied to the issues I've raised.</li>
+<li>Several companies that found a way to support my work:
+<ul dir="auto">
+<li><a href="https://www.transip.eu/" rel="nofollow">TransIP</a> for (temporary) providing me with free credits to test the deployment of VPSs in several open-source project.</li>
+</ul>
+</li>
+</ul>
+</article>
 
 ## My Skills
 
