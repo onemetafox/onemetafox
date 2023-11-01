@@ -41,7 +41,7 @@
 <p dir="auto"><a href="https://dokdo.sh/" rel="nofollow"><img align="left" height="94px" width="94px" alt="DOKDO UAB" src="https://github.com/onemetafox/logos/blob/master/dokdo.jpg?raw=true" style="max-width: 100%;"></a></p>
 <p dir="auto"><strong>Full-Stack Developer</strong> <br>
 <a href="https://dokdo.sh/" rel="nofollow"><strong>DOKDO</strong></a>, <a href="https://tymt.com/" rel="nofollow"><strong>TYMT</strong></a> • Contract <br>
-Languages &amp; Technologies: <code>React</code>, <code>ExpressJS</code>, <code>MongoDB</code>, <code>Jira</code>, <code>Git</code> <br>
+Languages &amp; Technologies: <code>React</code>, <code>ExpressJS</code>, <code>MongoDB</code>, <code>Nest</code>, <code>Jira</code>, <code>Git</code> <br>
 <br>
 </p>
 
